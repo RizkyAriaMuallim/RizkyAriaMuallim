@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RizkyAriaMuallim
 - 👀 I’m interested in Front-End 
-- 🌱 I’m currently learning Java :D
 - 💞️ I’m looking to collaborate on Front-End thing
 - 📫 How to reach me rizkyaria79@gmail.com or https://www.instagram.com/xrizkyx_/
 
